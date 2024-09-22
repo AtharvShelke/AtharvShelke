@@ -8,7 +8,7 @@
 
 --Python (Matplotlib, CSV handling)
 
---Backend: PHP, SQL
+--Backend: PHP, SQL, NodeJs, Express, MongoDb
 
 --JWT Authentication
 
