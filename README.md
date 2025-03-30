@@ -1,24 +1,32 @@
-👋 Hi, I'm Atharv Shelke 
+👋 Hi, I'm Atharv Shelke
+🚀 Full Stack Developer | AI Enthusiast | Problem Solver
+Portfolio: https://atharv-portfolio-ivory.vercel.app
+A passionate Full Stack Developer specializing in Next.js, React.js, Node.js, and MongoDB. I thrive on building scalable, high-performance web applications and optimizing workflows with AI-driven solutions.
 
-— a 3rd-year Computer Science student passionate about web development. I specialize in the MERN stack and love building dynamic, responsive apps using React, Node.js, and MongoDB.
+🔧 Tech Stack:
+Frontend: Next.js, React.js, TailwindCSS
 
-🔧 Skills:
+Backend: Node.js, Express.js, Prisma, MongoDB, PostgreSQL
 
---MERN Stack (React, Node.js, MongoDB, Express)
+DevOps: Docker*, Linux*, CI/CD (GitHub Actions, Vercel)
 
---Python (Matplotlib, CSV handling)
-
---Backend: PHP, SQL, NodeJs, Express, MongoDb
-
---JWT Authentication
+Other: JWT Authentication, API Development, AI Integration (LangChain, Generative AI)
 
 💻 Projects:
+Training & Placement Portal – Led development of a full-fledged portal, integrating AI automation.
 
---MERN Blog Platform with secure authentication and CRUD features
+Inventory Management System – Built a real-time tracking system with secure authentication.
 
---Authentication System with JWT and protected routes
+CaseCobra – Custom e-commerce store for personalized phone cases.
 
---Event Booking Website with PHP and SQL
+Restaura – Responsive restaurant landing page with Framer Motion animations.
 
+🌱 Currently Exploring:
+Machine Learning Foundations
 
-🌱 Always learning and eager to contribute to exciting projects. Reach me at shelkeatharv964@gmail.com
+LangChain & Generative AI
+
+Advanced Data Structures & Algorithms (DSA) in Java
+
+📩 Let's connect! – Reach me at shelkeatharv964@gmail.com or on LinkedIn
+
