@@ -1,38 +1,39 @@
-👋 Hi, I'm Atharv Shelke
+Atharv Shelke
+Full Stack Developer | AI Enthusiast | Open Source Contributor
 
-🚀 Full Stack Developer | AI Enthusiast | Problem Solver
+[Portfolio](https://atharv-portfolio-ivory.vercel.app/)
 
-Portfolio: https://atharv-portfolio-ivory.vercel.app
+🌱 About Me
+I'm a Computer Science Engineering student experienced in building scalable, AI-integrated web applications. I enjoy creating robust solutions that simplify workflows and deliver real-world impact.
 
-A passionate Full Stack Developer specializing in Next.js, React.js, Node.js, and MongoDB. I thrive on building scalable, high-performance web applications and optimizing workflows with AI-driven solutions.
+🛠️ Tech Stack
+Languages: Java, Python, JavaScript, TypeScript, HTML/CSS
 
-🔧 Tech Stack:
+Front-end: React.js, Next.js
 
-Frontend: Next.js, React.js, TailwindCSS
+Back-end: Node.js, FastAPI, Express.js
 
-Backend: Node.js, Express.js, Prisma, MongoDB, PostgreSQL
+Databases: PostgreSQL, MySQL, MongoDB
 
-DevOps: Docker*, Linux*, CI/CD (GitHub Actions, Vercel)
+Tools: Git, GitHub, Docker
 
-Other: JWT Authentication, API Development, AI Integration (LangChain, Generative AI)
+🚀 Experience
+Full Stack Developer Intern, MGM University (Jan 2025 – Present)
 
-💻 Projects:
+Launched a Training & Placement portal for 700+ students & 40 recruiters; automated registration & placement tracking.
 
-Training & Placement Portal – Led development of a full-fledged portal, integrating AI automation.
+Improved system performance by 40% and integrated a Gemini AI chatbot for instant student support.
 
-Inventory Management System – Built a real-time tracking system with secure authentication.
+Freelance Web Developer (Jun 2024 – Dec 2024)
 
-CaseCobra – Custom e-commerce store for personalized phone cases.
+Built a business website & inventory system for Enrich Furniture, boosting inquiries by 20% and accuracy by 50%.
 
-Restaura – Responsive restaurant landing page with Framer Motion animations.
+📌 Featured Projects
+AI-Story-Generator: End-to-end AI story platform (React, FastAPI, Langchain, PostgreSQL)
 
-🌱 Currently Exploring:
+AI-Fitness-Coach: Fitness coaching app with tailored plans (Next.js, TypeScript, Google-GenAI)
 
-Machine Learning Foundations
+E-Commerce Platform: Custom phone case store with secure auth & order tracking (Next.js, PostgreSQL)
 
-LangChain & Generative AI
-
-Advanced Data Structures & Algorithms (DSA) in Java
-
-📩 Let's connect! – Reach me at shelkeatharv964@gmail.com or on LinkedIn
-
+📫 Let's Connect
+Feel free to reach out for collaboration or interesting opportunities!
