@@ -18,7 +18,7 @@ Databases: PostgreSQL, MySQL, MongoDB
 Tools: Git, GitHub, Docker
 
 🚀 Experience
-Full Stack Developer Intern, MGM University (Jan 2025 – Present)
+Full Stack Developer Intern, Discover Labs.AI (Jan 2025 – Present)
 
 Launched a Training & Placement portal for 700+ students & 40 recruiters; automated registration & placement tracking.
 
