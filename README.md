@@ -1,39 +1,52 @@
-Atharv Shelke
-Full Stack Developer | AI Enthusiast | Open Source Contributor
+# Hi, I'm Atharv Shelke 👋 
+### Full-Stack Developer | Software Engineering Student @ MGM University
 
-[Portfolio](https://atharv-portfolio-ivory.vercel.app/)
+I build scalable, tenant-aware web applications and high-performance digital experiences. Currently, I'm blending my expertise in the **T3 Stack** (Next.js, Prisma, TypeScript) with **AI/ML** to create intelligent software solutions.
 
-🌱 About Me
-I'm a Computer Science Engineering student experienced in building scalable, AI-integrated web applications. I enjoy creating robust solutions that simplify workflows and deliver real-world impact.
+---
 
-🛠️ Tech Stack
-Languages: Java, Python, JavaScript, TypeScript, HTML/CSS
+### 🚀 What I’m Working On
+- 🛠️ **Full-Stack:** Architecting multi-tenant systems with strict RBAC and optimized data isolation.
+- 🤖 **AI/ML:** Developing LLM-powered storytelling platforms and exploring NLP.
+- 💼 **Freelance:** Helping businesses scale with custom inventory and e-commerce solutions.
 
-Front-end: React.js, Next.js
+### 🛠️ My Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript (ES6+), TypeScript, Python, SQL, Java |
+| **Frontend** | React, Next.js 14, React Native, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express, FastAPI, .NET Core |
+| **Database** | PostgreSQL, MongoDB, MySQL, Prisma ORM, Redis |
+| **Tools** | Git, Docker, Stripe, Zod, React Query, Vercel |
 
-Back-end: Node.js, FastAPI, Express.js
+---
 
-Databases: PostgreSQL, MySQL, MongoDB
+### 🏆 Featured Projects
 
-Tools: Git, GitHub, Docker
+#### [CaseCobra](https://github.com/AtharvShelke) — E-commerce Platform
+*Next.js 14, PostgreSQL, Stripe, Tailwind*
+- A production-ready custom phone case store with live image cropping and Stripe integration.
+- Optimized for performance using React Query and server-side rendering.
 
-🚀 Experience
-Full Stack Developer Intern, Discover Labs.AI (Jan 2025 – Present)
+#### [AI Story Generator](https://github.com/AtharvShelke) — LLM Narrative Engine
+*FastAPI, React, PostgreSQL, OpenAI*
+- Branching narrative platform with persistent state and asynchronous background jobs for AI generation.
 
-Launched a Training & Placement portal for 700+ students & 40 recruiters; automated registration & placement tracking.
+#### [Multi-Tenant Placement Portal](https://github.com/AtharvShelke)
+*Next.js, Prisma, MongoDB*
+- Built for MGM University to handle onboarding, job postings, and 5-level RBAC for thousands of students.
 
-Improved system performance by 40% and integrated a Gemini AI chatbot for instant student support.
+---
 
-Freelance Web Developer (Jun 2024 – Dec 2024)
+### 📊 My Stats
+![Atharv's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvShelke&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvShelke&layout=compact&theme=radical)
 
-Built a business website & inventory system for Enrich Furniture, boosting inquiries by 20% and accuracy by 50%.
+---
 
-📌 Featured Projects
-AI-Story-Generator: End-to-end AI story platform (React, FastAPI, Langchain, PostgreSQL)
+### 📫 Let's Connect!
+- **Portfolio:** [atharv-shelke.vercel.app](https://atharv-shelke.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/atharv-shelke](https://linkedin.com/in/atharv-shelke)
+- **Email:** [shelkeatharv964@gmail.com](mailto:shelkeatharv964@gmail.com)
 
-AI-Fitness-Coach: Fitness coaching app with tailored plans (Next.js, TypeScript, Google-GenAI)
-
-E-Commerce Platform: Custom phone case store with secure auth & order tracking (Next.js, PostgreSQL)
-
-📫 Let's Connect
-Feel free to reach out for collaboration or interesting opportunities!
+*"The best way to predict the future is to code it."*
